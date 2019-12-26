@@ -1,3 +1,2 @@
-# Testing Nuxt
+# TESTING SAMPLE PROJECTS
 
-## The site can be found at: https://zayras.github.io/samples/
