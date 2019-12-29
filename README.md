@@ -1,5 +1,8 @@
 # TESTING SAMPLE PROJECTS
 
+## LINK:
+### https://zayras.github.io/samples/Model
+
 ## SQUARE
 The Hello World of Three.js.  Just shows a rotating cube 
 
