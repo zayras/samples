@@ -20,6 +20,8 @@ It is supposed to load a model using Three.js but some components do not work on
 So the button has been disabled for now.
 
 ## MODEL
+UPDATE: it works now, just had to change the path of the model  :D
+
 Supposed to show a model of a phone which you can interact with. But this also does not work with github pages (Err: resource not found) so will have to fix it.
 
 ## SCROLL
